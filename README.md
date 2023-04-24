@@ -1,5 +1,5 @@
 # Mikael Chowdhury
 
-- 🖥 Fullstack Developer
+- 🧙🏾‍♂️ Typescript Wizard
 - 💬 Discord Bot Developer
-- 🐍 Python Data Scientist
+- 🐍 Python Data Analyst
