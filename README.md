@@ -1,5 +1,3 @@
 # Mikael Chowdhury
 
-- 🧙🏾‍♂️ Typescript Wizard
-- 💬 Discord Bot Developer
-- 🐍 Python Data Analyst
+🧙🏾‍♂️ Full-Stack Developer working at Shafi Consultancy
